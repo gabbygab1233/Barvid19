@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabbygab1233%2FBarvid19&count_bg=%2379C83D&title_bg=%23D10606&icon=&icon_color=%23E7E7E7&title=Barvid19-Tracker&edge_flat=true)](https://hits.seeyoufarm.com)
+
 # Covid-19 Barangay Tracker (Barvid-19)
 Barvid-19 is a Covid-19 Barangay Tracker that will help the public in identifying the number of people infected from COVID-19 and from what specific barangay they came from. 
 <p align="center">
